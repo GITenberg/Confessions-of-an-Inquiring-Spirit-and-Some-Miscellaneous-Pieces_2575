@@ -1,0 +1,36 @@
+_repo: Confessions-of-an-Inquiring-Spirit-and-Some-Miscellaneous-Pieces_2575
+contributor:
+  creator:
+    editor:
+      agent_name: Morley, Henry
+      birthdate: 1822
+      deathdate: 1894
+      gutenberg_agent_id: '1355'
+      url: http://www.gutenberg.org/2009/agents/1355
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+creator:
+  author:
+    agent_name: Coleridge, Samuel Taylor
+    alias: Coleridge, S. T. (Samuel Taylor)
+    birthdate: 1772
+    deathdate: 1834
+    gutenberg_agent_id: '95'
+    url: http://www.gutenberg.org/2009/agents/95
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+description: ''
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Inspiration'
+- !lcc 'BS'
+tableOfContents: Confessions of an inquiring spirit -- Letters on the inspiration
+  of the scriptures -- An essay on faith -- Notes on the Book of Common Prayer --
+  A nightly prayer -- A sailor's fortune.
+title: Confessions of an Inquiring Spirit and Some Miscellaneous Pieces
+url: http://www.gutenberg.org/ebooks/2575
