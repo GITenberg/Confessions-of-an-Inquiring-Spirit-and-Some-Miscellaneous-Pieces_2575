@@ -1,5 +1,5 @@
 _repo: Confessions-of-an-Inquiring-Spirit-and-Some-Miscellaneous-Pieces_2575
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -9,6 +9,9 @@ contributor:
       gutenberg_agent_id: '1355'
       url: http://www.gutenberg.org/2009/agents/1355
       wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coleridge, Samuel Taylor
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/95
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2575#Confessions-of-an-Inquiring-Spirit-and-Some-Miscellaneous-Pieces
 gutenberg_issued: '2001-04-01'
 gutenberg_type: Text
 identifiers:
